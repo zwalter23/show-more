@@ -2,9 +2,6 @@ body{
     background: #eee;
 }
 
-p {
-  padding: 30px;
-}
 
 #content  {
     background: #fff;
@@ -12,6 +9,7 @@ p {
     padding: 20px;
     padding-top: 0;
     margin: 0 auto;
+    text-align: justify;
     
     max-height: 270px;
     overflow: hidden;
